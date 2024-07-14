@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Photo Gallery</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="messages.html">Messages</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>Our Favorite Memories</h2>
+            <div class="gallery">
+                <!-- Add your images here -->
+                <img src="path-to-photo1.jpg" alt="Photo 1">
+                <img src="path-to-photo2.jpg" alt="Photo 2">
+                <!-- More photos... -->
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>With love, [Your Name]</p>
+    </footer>
+</body>
+</html>

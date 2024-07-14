@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Happy Birthday [Girlfriend's Name]!</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="messages.html">Messages</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>Welcome to Your Special Day</h2>
+            <p>This website is dedicated to you, [Girlfriend's Name]. Happy Birthday!</p>
+            <img src="path-to-her-photo.jpg" alt="Birthday Photo">
+        </section>
+    </main>
+    <footer>
+        <p>With love, [Your Name]</p>
+    </footer>
+</body>
+</html>

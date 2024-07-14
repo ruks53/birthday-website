@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Messages</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Birthday Messages</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="messages.html">Messages</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>Messages from Friends and Family</h2>
+            <ul class="messages">
+                <li>"Happy Birthday, [Girlfriend's Name]! Wishing you a day filled with love and joy. - [Friend's Name]"</li>
+                <li>"Hope your birthday is as special as you are! - [Family Member's Name]"</li>
+                <!-- Add more messages here -->
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>With love, [Your Name]</p>
+    </footer>
+</body>
+</html>
